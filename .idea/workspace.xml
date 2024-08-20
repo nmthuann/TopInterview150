@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf97c329-3c50-4140-8f50-1740eac9eccd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TopInterview150.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStockSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MajorityElementSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MergeSortedArraySolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArrayIISolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArraySolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RemoveElementSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/IBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/impl/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/impl/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/solutions/FlattenBinaryTreeToLinkedListSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix/SetMatrixZeroesSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SlidingWindows/LongestSubstringWithoutRepeatingCharactersSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/ValidParenthesesSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +17,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,7 +42,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CODE/Project_Java/ecommerce-spring-boot-be&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CODE/Project_Java/TopInterview150&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -86,6 +72,9 @@
       <workItem from="1722399054592" duration="3546000" />
       <workItem from="1722566901765" duration="3124000" />
       <workItem from="1723865619489" duration="5424000" />
+      <workItem from="1723880019942" duration="12000" />
+      <workItem from="1723880132974" duration="224000" />
+      <workItem from="1724130314452" duration="4378000" />
     </task>
     <servers />
   </component>
@@ -226,11 +215,6 @@
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BinaryTrees/impl/BinaryTree.java</url>
           <line>46</line>
           <option name="timeStamp" value="53" />
@@ -251,11 +235,6 @@
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BinaryTrees/impl/BinaryTree.java</url>
           <line>32</line>
           <option name="timeStamp" value="60" />
@@ -271,9 +250,83 @@
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="63" />
+          <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
+          <line>34</line>
+          <properties class="Backtrackings.WordSearchSolution" method="dfs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="96" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

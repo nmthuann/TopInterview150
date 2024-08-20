@@ -1,3 +1,4 @@
+import Backtrackings.WordSearchSolution;
 import BinaryTrees.impl.BinaryTree;
 import BinaryTrees.impl.TreeNode;
 import SlidingWindows.LongestSubstringWithoutRepeatingCharactersSolution;
@@ -9,27 +10,51 @@ import SlidingWindows.LongestSubstringWithoutRepeatingCharactersSolution;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        // Example test case for merge method
-        // Tạo cây nhị phân
-        BinaryTree binaryTree = new BinaryTree();
-        TreeNode root = null;
+        // Example test case for exist method
+//        char[][] board = {
+//                {'A', 'B', 'C', 'E'},
+//                {'S', 'F', 'C', 'S'},
+//                {'A', 'D', 'E', 'E'}
+//        };
+//        String word = "ABCCED";
 
-        // Chèn các giá trị vào cây BST
-        root = binaryTree.insert(root, 5);
-        root = binaryTree.insert(root, 3);
-        root = binaryTree.insert(root, 7);
-        root = binaryTree.insert(root, 2);
-        root = binaryTree.insert(root, 4);
-        root = binaryTree.insert(root, 6);
-        root = binaryTree.insert(root, 8);
-        binaryTree.InOrderTraversalLNR(root);
+                char[][] board = {
+                {'A', 'B', 'C', 'E'},
+                {'S', 'F', 'C', 'S'},
+                {'A', 'D', 'E', 'E'}
+        };
+        String word = "SEE";
 
-        TreeNode root2 = root;
-        binaryTree.PreOrderTraversalNLR(root2);
 
+        WordSearchSolution  solution = new WordSearchSolution ();
+        if (solution.exist(board, word)) {
+            System.out.println("found!");
+        } else {
+            System.out.println("not found!");
+        }
     }
 }
+
+
+//    // Tạo cây nhị phân
+//    BinaryTree binaryTree = new BinaryTree();
+//    TreeNode root = null;
+//
+//// Chèn các giá trị vào cây BST
+//        root = binaryTree.insert(root, 5);
+//                root = binaryTree.insert(root, 3);
+//                root = binaryTree.insert(root, 7);
+//                root = binaryTree.insert(root, 2);
+//                root = binaryTree.insert(root, 4);
+//                root = binaryTree.insert(root, 6);
+//                root = binaryTree.insert(root, 8);
+//                binaryTree.InOrderTraversalLNR(root);
+//
+//                TreeNode root2 = root;
+//                binaryTree.PreOrderTraversalNLR(root2);
+
+
+
 
 //    Arrays.BestTimeToBuyAndSellStockSolution solution = new Arrays.BestTimeToBuyAndSellStockSolution();
 //    int[] prices = {7,1,5,3,6,4};
