@@ -1,4 +1,4 @@
-package BinaryTrees.solutions;
+package BinaryTrees;
 
 import BinaryTrees.impl.TreeNode;
 

@@ -56,7 +56,7 @@ public class Main {
 
 
 
-//    Arrays.BestTimeToBuyAndSellStockSolution solution = new Arrays.BestTimeToBuyAndSellStockSolution();
+//    Arrays.BestTimeToBuyAndSellStock.BestTimeToBuyAndSellStockSolution solution = new Arrays.BestTimeToBuyAndSellStock.BestTimeToBuyAndSellStockSolution();
 //    int[] prices = {7,1,5,3,6,4};
 //    int maxProfit = solution.maxProfit(prices);
 //        System.out.println("Arrays.MajorityElementSolution: " + maxProfit);
@@ -82,7 +82,7 @@ public class Main {
 
 
 
-//    Arrays.RemoveDuplicatesSortedArrayIISolution solution = new Arrays.RemoveDuplicatesSortedArrayIISolution();
+//    Arrays.RemoveDuplicatesSortedArray.RemoveDuplicatesSortedArrayIISolution solution = new Arrays.RemoveDuplicatesSortedArray.RemoveDuplicatesSortedArrayIISolution();
 //    //        int [] nums = {1,1,1,1,2,2,3};
 //    int [] nums = {1,1,1,1,2,2,3,3};
 //    int k = solution.removeDuplicates(nums);
@@ -93,7 +93,7 @@ public class Main {
 
 
 
-//    Arrays.RemoveDuplicatesSortedArraySolution solution = new Arrays.RemoveDuplicatesSortedArraySolution();
+//    Arrays.RemoveDuplicatesSortedArray.RemoveDuplicatesSortedArraySolution solution = new Arrays.RemoveDuplicatesSortedArray.RemoveDuplicatesSortedArraySolution();
 //    int [] nums = {1,1,2};
 //    int k = solution.removeDuplicates(nums);
 //        for (int num : nums) {

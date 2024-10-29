@@ -1,7 +1,5 @@
 package BinaryTrees.impl;
 
-import BinaryTrees.IBinaryTree;
-
 /**
  * @author LENOVO
  * @project Top150Interview

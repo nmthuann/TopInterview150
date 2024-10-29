@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.BestTimeToBuyAndSellStock;
 
 /**
  * @author LENOVO
@@ -24,4 +24,7 @@ public class BestTimeToBuyAndSellStockSolution {
 
         return maxProfit;
     }
+
+
+
 }

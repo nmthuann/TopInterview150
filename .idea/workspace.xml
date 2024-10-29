@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf97c329-3c50-4140-8f50-1740eac9eccd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStockIISolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStock/Tests/BestTimeToBuyAndSellStockIISolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStock/Tests/BestTimeToBuyAndSellStockSolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matrix/Tests/SetMatrixZeroesSolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SlidingWindows/Tests/LongestSubstringWithoutRepeatingCharactersSolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/Tests/ValidParenthesesSolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tries/Tests/WordSearchIISolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tries/WordSearchIISolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStockSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStockSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArrayIISolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArray/RemoveDuplicatesSortedArrayIISolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArraySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArray/RemoveDuplicatesSortedArraySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTrees/IBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTrees/impl/IBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTrees/impl/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTrees/impl/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTrees/solutions/FlattenBinaryTreeToLinkedListSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTrees/FlattenBinaryTreeToLinkedListSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,18 +50,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CODE/Project_Java/TopInterview150&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/CODE/Project_Java/TopInterview150",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,38 +87,54 @@
       <workItem from="1723865619489" duration="5424000" />
       <workItem from="1723880019942" duration="12000" />
       <workItem from="1723880132974" duration="224000" />
-      <workItem from="1724130314452" duration="4378000" />
+      <workItem from="1724130314452" duration="4447000" />
+      <workItem from="1724225444384" duration="4741000" />
+      <workItem from="1724293787192" duration="3907000" />
+      <workItem from="1724380558696" duration="18000" />
+      <workItem from="1730170970660" duration="1660000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: Backtracking with problem (79. Word Search).">
+      <created>1724140316891</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724140316891</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: Backtracking with problem (79. Word Search)." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Backtracking with problem (79. Word Search)." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArrayIISolution.java</url>
+          <url>file://$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArray/RemoveDuplicatesSortedArrayIISolution.java</url>
           <line>19</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArrayIISolution.java</url>
+          <url>file://$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArray/RemoveDuplicatesSortedArrayIISolution.java</url>
           <line>20</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArrayIISolution.java</url>
+          <url>file://$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArray/RemoveDuplicatesSortedArrayIISolution.java</url>
           <line>21</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArrayIISolution.java</url>
+          <url>file://$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArray/RemoveDuplicatesSortedArrayIISolution.java</url>
           <line>16</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArrayIISolution.java</url>
+          <url>file://$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArray/RemoveDuplicatesSortedArrayIISolution.java</url>
           <line>14</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
@@ -155,98 +184,38 @@
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStockSolution.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStockSolution.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStockSolution.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStockSolution.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStockSolution.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStockSolution.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SlidingWindows/LongestSubstringWithoutRepeatingCharactersSolution.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SlidingWindows/LongestSubstringWithoutRepeatingCharactersSolution.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SlidingWindows/LongestSubstringWithoutRepeatingCharactersSolution.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SlidingWindows/LongestSubstringWithoutRepeatingCharactersSolution.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SlidingWindows/LongestSubstringWithoutRepeatingCharactersSolution.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SlidingWindows/LongestSubstringWithoutRepeatingCharactersSolution.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BinaryTrees/impl/BinaryTree.java</url>
-          <line>46</line>
+          <line>44</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BinaryTrees/impl/BinaryTree.java</url>
-          <line>47</line>
+          <line>45</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BinaryTrees/impl/BinaryTree.java</url>
-          <line>48</line>
+          <line>46</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BinaryTrees/impl/BinaryTree.java</url>
-          <line>45</line>
+          <line>43</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BinaryTrees/impl/BinaryTree.java</url>
-          <line>32</line>
+          <line>30</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BinaryTrees/impl/BinaryTree.java</url>
-          <line>33</line>
+          <line>31</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BinaryTrees/impl/BinaryTree.java</url>
-          <line>34</line>
+          <line>32</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
