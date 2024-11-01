@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf97c329-3c50-4140-8f50-1740eac9eccd" name="Changes" comment="feat: add the solutions (Palindrome Number)">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/PalindromeNumberSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Tests/PalindromeNumberSolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Tests/ValidAnagramSolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ValidAnagramSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Backtrackings/Tests/WordSearchSolutionTest.java" afterDir="false" />
+    <list default="true" id="bf97c329-3c50-4140-8f50-1740eac9eccd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/RomanToIntegerSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Tests/RomanToIntegerSolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -83,7 +80,8 @@
       <workItem from="1724293787192" duration="3907000" />
       <workItem from="1724380558696" duration="18000" />
       <workItem from="1730170970660" duration="1844000" />
-      <workItem from="1730346417275" duration="941000" />
+      <workItem from="1730346417275" duration="1078000" />
+      <workItem from="1730447133661" duration="4671000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Backtracking with problem (79. Word Search).">
       <created>1724140316891</created>
@@ -99,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1730172679540</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: add the solutions (Palindrome Number and Valid Anagram).">
+      <created>1730347485484</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730347485484</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,7 +113,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Backtracking with problem (79. Word Search)." />
     <MESSAGE value="feat: add folder Tests for solutions." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add folder Tests for solutions." />
+    <MESSAGE value="feat: add the solutions (Palindrome Number and Valid Anagram)." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add the solutions (Palindrome Number and Valid Anagram)." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -287,6 +293,66 @@
           <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
           <line>45</line>
           <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RomanToIntegerSolution.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RomanToIntegerSolution.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RomanToIntegerSolution.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RomanToIntegerSolution.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RomanToIntegerSolution.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RomanToIntegerSolution.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RomanToIntegerSolution.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RomanToIntegerSolution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RomanToIntegerSolution.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RomanToIntegerSolution.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RomanToIntegerSolution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RomanToIntegerSolution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="131" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
