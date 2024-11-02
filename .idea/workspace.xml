@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf97c329-3c50-4140-8f50-1740eac9eccd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RomanToIntegerSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Tests/RomanToIntegerSolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/LengthOfLastWordSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Tests/LengthOfLastWordSolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -38,18 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CODE/Project_Java/TopInterview150&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/CODE/Project_Java/TopInterview150",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -81,7 +81,9 @@
       <workItem from="1724380558696" duration="18000" />
       <workItem from="1730170970660" duration="1844000" />
       <workItem from="1730346417275" duration="1078000" />
-      <workItem from="1730447133661" duration="4671000" />
+      <workItem from="1730447133661" duration="4706000" />
+      <workItem from="1730472162048" duration="14000" />
+      <workItem from="1730513728137" duration="5195000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Backtracking with problem (79. Word Search).">
       <created>1724140316891</created>
@@ -104,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1730347485484</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: add the RomanToIntegerSolution.">
+      <created>1730456108491</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730456108491</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,7 +123,8 @@
     <MESSAGE value="feat: Backtracking with problem (79. Word Search)." />
     <MESSAGE value="feat: add folder Tests for solutions." />
     <MESSAGE value="feat: add the solutions (Palindrome Number and Valid Anagram)." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add the solutions (Palindrome Number and Valid Anagram)." />
+    <MESSAGE value="feat: add the RomanToIntegerSolution." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add the RomanToIntegerSolution." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -353,6 +363,36 @@
           <url>file://$PROJECT_DIR$/src/Arrays/RomanToIntegerSolution.java</url>
           <line>24</line>
           <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/LengthOfLastWordSolution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/LengthOfLastWordSolution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/LengthOfLastWordSolution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/LengthOfLastWordSolution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/LengthOfLastWordSolution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/LengthOfLastWordSolution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="138" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Backtrackings/WordSearchSolution.java</url>
