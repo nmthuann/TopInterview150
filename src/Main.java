@@ -1,4 +1,5 @@
-import Strings.Tests.LengthOfLastWordSolutionTest;
+import static Strings.Tests.LongestCommonPrefixSolutionTest.testLongestCommonPrefix;
+import static Strings.Tests.LongestCommonPrefixSolutionTest.testUserInput;
 
 /**
  * @author ${USER}
@@ -7,8 +8,11 @@ import Strings.Tests.LengthOfLastWordSolutionTest;
  */
 public class Main {
     public static void main(String[] args) {
-          LengthOfLastWordSolutionTest.testLengthOfLastWord();
-         //  LengthOfLastWordSolutionTest.testUserInput();
+        System.out.println("Running predefined test cases:");
+        testLongestCommonPrefix();
+
+//        System.out.println("\nRunning user input test case:");
+//        testUserInput();
     }
 }
 
